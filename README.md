@@ -10,5 +10,4 @@
 
 ## Example
 
-[Example](./autocomplete.png)
-
+![Example](./autocomplete.png)
